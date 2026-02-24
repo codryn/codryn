@@ -1,5 +1,7 @@
 # Creating Characters
 
+NOTE: This is a placeholder page. Codryn is currently in development and will be available in the future.
+
 This tutorial walks you through building a complete character using the
 Codryn character creation wizard. By the end you will have a fully fleshed-out
 hero ready for your first session.

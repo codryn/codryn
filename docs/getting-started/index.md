@@ -1,5 +1,7 @@
 # Getting Started
 
+NOTE: This is a placeholder page. Codryn is currently in development and will be available in the future.
+
 Everything you need to go from zero to your first adventure with Codryn.
 
 ```{mermaid}

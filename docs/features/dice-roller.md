@@ -1,5 +1,7 @@
 # Dice Roller
 
+NOTE: This is a placeholder page. The dice roller feature is currently in development and will be available in a future release.
+
 The Codryn Dice Roller supports every standard polyhedral die used in
 tabletop RPGs and lets you build custom roll expressions with modifiers,
 advantage, and disadvantage.

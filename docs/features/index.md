@@ -1,5 +1,7 @@
 # Features
 
+NOTE: This is a placeholder page. Codryn is currently in development and will be available in the future.
+
 Codryn is packed with features designed to make every session smoother —
 whether you are a player or a Game Master.
 

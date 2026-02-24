@@ -1,5 +1,7 @@
 # Character Management
 
+NOTE: This is a placeholder page. The character management feature is currently in development and will be available in a future release.
+
 Codryn's character management system lets you build and maintain rich character
 sheets that cover every aspect of your hero — from raw ability scores to the
 smallest item in your backpack.

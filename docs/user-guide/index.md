@@ -1,5 +1,7 @@
 # User Guide
 
+NOTE: This is a placeholder page. Codryn is currently in development and will be available in the future.
+
 Step-by-step tutorials for getting the most out of Codryn.
 
 ```{toctree}

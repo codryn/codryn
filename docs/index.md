@@ -1,5 +1,7 @@
 # Welcome to Codryn
 
+NOTE: This is a placeholder page. Codryn is currently in development and will be available in the future.
+
 **Codryn** is your all-in-one RPG gaming companion — a powerful tool designed to help
 players and game masters manage characters, track campaigns, and roll dice with style.
 

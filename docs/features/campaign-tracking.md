@@ -1,5 +1,7 @@
 # Campaign Tracking
 
+NOTE: This is a placeholder page. The campaign tracking feature is currently in development and will be available in a future release.
+
 Codryn's campaign tracking tools help Game Masters and players keep every
 session organised — from session zero to the final boss.
 

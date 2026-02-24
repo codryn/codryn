@@ -1,5 +1,7 @@
 # Installation
 
+NOTE: This is a placeholder page. Codryn is currently in development and will be available in the future.
+
 This page walks you through installing Codryn on every supported platform.
 
 ```{note}

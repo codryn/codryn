@@ -1,5 +1,7 @@
 # Quick Start
 
+NOTE: This is a placeholder page. Codryn is currently in development and will be available in the future.
+
 Get up and running in under five minutes.
 
 ```{tip}
