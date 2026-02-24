@@ -1,0 +1,52 @@
+/* Codryn Documentation — custom styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Fira+Code&display=swap');
+
+/* ── Brand colours ──────────────────────────────────────────────────────────── */
+:root {
+  --codryn-red:    #8b2635;
+  --codryn-gold:   #d4a853;
+  --codryn-dark:   #1a1a2e;
+}
+
+/* ── Sidebar logo size ──────────────────────────────────────────────────────── */
+.sidebar-logo {
+  max-width: 80px;
+  margin: 0 auto 0.5rem;
+  display: block;
+}
+
+/* ── Navigation links ───────────────────────────────────────────────────────── */
+.sidebar-tree a:hover {
+  color: var(--codryn-gold);
+}
+
+/* ── Headings ───────────────────────────────────────────────────────────────── */
+h1, h2, h3 {
+  font-family: 'Cinzel', Georgia, serif;
+  letter-spacing: 0.03em;
+}
+
+h1 {
+  border-bottom: 2px solid var(--codryn-gold);
+  padding-bottom: 0.3em;
+}
+
+/* ── Admonition colours ─────────────────────────────────────────────────────── */
+.admonition.tip > .admonition-title {
+  background-color: rgba(212, 168, 83, 0.25);
+}
+.admonition.note > .admonition-title {
+  background-color: rgba(139, 38, 53, 0.2);
+}
+
+/* ── Code blocks ────────────────────────────────────────────────────────────── */
+pre, code {
+  font-family: 'Fira Code', 'Courier New', monospace;
+}
+
+/* ── Mermaid diagrams — centre them ─────────────────────────────────────────── */
+.mermaid {
+  text-align: center;
+  margin: 1.5rem auto;
+}
